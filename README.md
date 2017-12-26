@@ -1,7 +1,7 @@
 # Hello-W0rld-
 
-hello world 
-this is Miled from Earth 
+Hello w0rld  :) 
+This is Miled from Venus . 
 Just learning to c0de 
 
 function hope(){
